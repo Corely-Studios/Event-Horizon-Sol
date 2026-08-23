@@ -77,9 +77,26 @@ the screenshot folder has all the game ss.
 7. Open the main level if it doesn't open automatically.
 8. Press **Play** in the Unreal Engine editor to start the game.
 
-## Credits
+## Creators
 Monster (Rudra Pratap) — Unreal Engine / Blueprints
 Gx Art (Goushul Alam) — 3D Art / Blender
+
+## Credits
+Locker Model - https://drive.google.com/drive/folders/1QpZ9EsUJh8cEq-xLt1brY08DrQQ6S3Y9
+Electric Sound - https://freesound.org/people/Link-Boy/sounds/156497/
+Door Model - https://sketchfab.com/3d-models/sci-fi-door-5e85766baf33419e8e742a0c514fa487
+Locker Opening Sound - https://freesound.org/people/helenacm/sounds/232989/
+Footsteps Sound - https://pixabay.com/sound-effects/household-metal-footsteps-14727/
+
+References -
+ 1. https://www.google.com/imgres?imgurl=https://p.turbosquid.com/ts-thumb/G5/JF0uEh/Eq57a6zS/fusebox_difuse/jpg/1409071017/600x600/fit_q87/807244b504b03dfdd3f01e1d4322bef7f527b9a1/fusebox_difuse.jpg&tbnid=7U8wTovm4py1eM&vet=1&imgrefurl=https://www.turbosquid.com/FullPreview/844910&docid=Hm8dT4cpMpK3mM&w=600&h=600&source=sh/x/im/m5/1&kgs=4dfa18168286f1ea&shem=epsd1,nisbtsa2,nisbtsal,rimspwouoe
+ 2. https://www.google.com/imgres?imgurl=https://i.pinimg.com/736x/be/56/7b/be567b9c5b754eb8e708b4e6db53f755.jpg&tbnid=bWqpOeZqTWZuXM&vet=1&imgrefurl=https://www.pinterest.com/pin/fuse-cell-by-janice-chu-futuristic-technology-concept--25966135340920580/&docid=ae9Jzks5lZ7_hM&w=700&h=393&source=sh/x/im/m5/1&kgs=250e562ad4c37c9c&shem=epsd1,nisbtsa2,nisbtsal,rimspwouoe
+
+Materials -
+ 1. https://ambientcg.com/view?id=metal003
+ 2. https://www.cgtrader.com/free-3d-models/textures/architectural-textures/space-floor-texture
+ 3. https://ambientcg.com/view?id=Porcelain002
+ 4. https://www.textures.com/download/sci-fi-panel-pbr0331/137280
 
 ## License
 This project is licensed under the MIT License.
