@@ -1,9 +1,9 @@
 # Event-Horizon-Sol V2
 
-The lights are dying. Dont let your oxygen run out before you find out why.
+The lights are dying. Don't let your oxygen run out before you find out why.
 
 ## About the game
-Event Horizon Sol is a sci-fi puzzle-thriller built in UE4. Inspired by SOMA, you oversee a Dyson Sphere sector breached by an alien entity. Solve puzzles to survive, hide in lockers without letting him get a glismpse, before central command destroyes your zone. Rebuilding from ground up again after we first concepted it at Takumi Delhi hackathon. 
+Event Horizon Sol is a sci-fi puzzle-thriller built in UE4. Inspired by SOMA & Alien Isolation. You oversee a Dyson Sphere sector breached by an alien entity. Solve puzzles to survive, hide in lockers to stay alive, before central command destroyes your zone. Rebuilding from ground up again after we first concepted it at Takumi Delhi hackathon. 
 ## Screenshots
 <img width="1366" height="768" alt="WhatsApp Image 2026-08-23 at 16 50 27" src="https://github.com/user-attachments/assets/9de5b862-d54d-4c41-957c-610c5efd07d0" />
 <img width="1366" height="768" alt="WhatsApp Image 2026-08-23 at 16 50 26" src="https://github.com/user-attachments/assets/9a466288-c971-42e8-8229-652c7f45cec3" />
@@ -27,7 +27,7 @@ You have four main tasks:
 The atmosphere of the game takes place inside a space-ship module, it has an errie environment.
 You should keep an eye in the corner, maybe someone is watching you.
 ## How we made it 
-The main programs we used for this game were;
+The main programs we used for this game were:
 Unreal Engine 4 (5 was too heavy T-T)
 Blender
 Substance Painter
@@ -50,19 +50,19 @@ Substance Painter
 •Game direction/design
 
 ## Development/ Git explanation
-We initially developed the project locally before learning how to properly use Git and GitHub for collaboration, we didnt knew we have to commit our project. Because of this, the early development work does not have a complete commit history. We later moved the project to GitHub and included the existing source files.
+We initially developed the project locally before learning how to properly use Git and GitHub for collaboration. At the beginning, we didn't know that we needed to commit our work regularly. Because of this, the early development work does not have a complete commit history. We later moved the project to GitHub and included the existing source files.
 ## Project Structure
 Event-Horizon-Sol-V2/
-── Event_Horizon_SOL_V2/
-── Fuel_Cell_Tut_Start.blend
-── Map_EVENT_4.1blend.blend
-── fuel_Cell_housing.blend
-── Screenshots/
-── README.md
-── LICENSE
+├── Event_Horizon_SOL_V2/
+├── Fuel_Cell_Tut_Start.blend
+├── Map_EVENT_4.1blend.blend
+├── fuel_Cell_housing.blend
+├── Screenshots/
+├── README.md
+└── LICENSE
 
 The Event_Horizon_SOL_V2/ Folder has the main game files, The .blend files are different assets,
-the screenshot folder has all the ss we took throughout the journey.
+the screenshot folder has all the game ss.
 ## How to run it
 
 ### Requirements
@@ -71,8 +71,8 @@ the screenshot folder has all the ss we took throughout the journey.
 ### Steps
 1. Clone or download this repository.
 2. Open the `Event_Horizon_SOL_V2` folder.
-3. Locate the `.uproject` file.
-5. Open the `.uproject` file with Unreal Engine 4.26.2.
+3. Locate the `Event_Horizon_SOL_V2.uproject` file.
+5. Open the `Event_Horizon_SOL_V2.uproject` file with Unreal Engine 4.26.2.
 6. Wait for the project and assets to load.
 7. Open the main level if it doesn't open automatically.
 8. Press **Play** in the Unreal Engine editor to start the game.
