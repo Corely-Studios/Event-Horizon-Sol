@@ -6,7 +6,7 @@ The lights are dying. Don't let your oxygen run out before you find out why.
 ## About the game
 Event Horizon Sol is a sci-fi puzzle-thriller built in UE4. Inspired by SOMA & Alien Isolation. You oversee a Dyson Sphere sector breached by an alien entity. Solve puzzles to survive, hide in lockers to stay alive, before central command destroyes your zone. Rebuilding from ground up again after we first concepted it at Takumi Delhi hackathon. 
 ## Screenshots
-<img width="1520" height="852" alt="Event Horizon  (1)" src="https://github.com/user-attachments/assets/d1122dc7-daad-46a4-bfaa-4a5a5c0fd26e" />
+<img width="1520" height="852" alt="Event Horizon" src="https://github.com/user-attachments/assets/c606a762-a0d5-4b92-a5cc-abd429944f58" />
 <img width="1366" height="768" alt="WhatsApp Image 2026-08-23 at 16 50 27" src="https://github.com/user-attachments/assets/9de5b862-d54d-4c41-957c-610c5efd07d0" />
 <img width="1366" height="768" alt="WhatsApp Image 2026-08-23 at 16 50 26" src="https://github.com/user-attachments/assets/9a466288-c971-42e8-8229-652c7f45cec3" />
 <img width="1366" height="768" alt="WhatsApp Image 2026-08-23 at 17 29 04 (3)" src="https://github.com/user-attachments/assets/06cc769a-b543-43d6-be01-590fd9ab7c18" />
