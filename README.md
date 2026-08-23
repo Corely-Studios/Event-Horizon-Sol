@@ -53,13 +53,13 @@ Substance Painter
 We initially developed the project locally before learning how to properly use Git and GitHub for collaboration. At the beginning, we didn't know that we needed to commit our work regularly. Because of this, the early development work does not have a complete commit history. We later moved the project to GitHub and included the existing source files.
 ## Project Structure
 Event-Horizon-Sol-V2/
-├── Event_Horizon_SOL_V2/
-├── Fuel_Cell_Tut_Start.blend
-├── Map_EVENT_4.1blend.blend
-├── fuel_Cell_housing.blend
-├── Screenshots/
-├── README.md
-└── LICENSE
+- `Event_Horizon_SOL_V2/` — Main Unreal Engine project files
+- `Fuel_Cell_Tut_Start.blend` — Blender asset file
+- `Map_EVENT_4.1blend.blend` — Blender environment file
+- `fuel_Cell_housing.blend` — Blender asset file
+- `Screenshots/` — Game screenshots
+- `README.md` — Project documentation
+- `LICENSE` — MIT License
 
 The Event_Horizon_SOL_V2/ Folder has the main game files, The .blend files are different assets,
 the screenshot folder has all the game ss.
